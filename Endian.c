@@ -2,6 +2,7 @@
 
 // 判断该CPU大端还是小端
 // 增加commit
+// 增加 License 
 
 int main() {
 	int a = 0x11223344;
