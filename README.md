@@ -4,3 +4,8 @@
 
 gcc Endian.c -o Endian && ./Endian && rm Endian
 
+
+
+
+
+
